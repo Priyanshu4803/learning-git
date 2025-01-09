@@ -14,3 +14,7 @@ function learn(){
 function newF2(){
     return 6;
 }
+
+function featb(){
+    return "x";
+}
