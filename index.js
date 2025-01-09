@@ -12,5 +12,5 @@ function learn(){
     return 1;
 }
 function newF2(){
-    return 4;
+    return 6;
 }
