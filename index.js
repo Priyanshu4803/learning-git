@@ -16,5 +16,5 @@ function newF2(){
 }
 
 function featb(){
-    return "x";
+    return "y";
 }
